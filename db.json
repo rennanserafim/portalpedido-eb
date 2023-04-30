@@ -1,0 +1,46 @@
+{
+    "produtos": [
+      {
+        "name": "Brownie Tradicional 6x6 cm",
+        "valor": "2",
+        "categorias": {
+          "id": 2,
+          "name": "Brownie Tradicional"
+        },
+        "id": 1
+      },
+      {
+        "name": "Brownie Tradicional 8x8 cm",
+        "valor": "4",
+        "categorias": {
+          "id": 2,
+          "name": "Brownie Tradicional"
+        },
+        "id": 2
+      }
+      ,
+      {
+        "name": "Brownie Tradicional 10x10 cm",
+        "valor": "4",
+        "categorias": {
+          "id": 2,
+          "name": "Brownie Tradicional"
+        },
+        "id": 2
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "name": "Brownie Tradicional"
+      },
+      {
+        "id": 2,
+        "name": "Brownie Recheado"
+      },
+      {
+        "id": 3,
+        "name": "Outros"
+      }
+    ]
+  }

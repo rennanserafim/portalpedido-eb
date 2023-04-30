@@ -1,0 +1,31 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    text-decoration: none;
+
+}
+
+img{
+    display: flex;
+    justify-content: flex-start;
+}
+
+li{ 
+   margin: 20px 50px;
+   list-style: none;
+   color: white;
+   justify-content: space-between;
+   text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+
+a:hover{
+    color:rgb(155, 112, 196)
+    
+}

@@ -1,0 +1,19 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+}
+
+
+li{ 
+   margin: 20px 50px;
+   list-style: none;
+   color: white;
+
+}
+
+li:hover{
+    color:rgb(155, 112, 196);
+    cursor: pointer;
+    
+}
